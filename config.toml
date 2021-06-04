@@ -1,4 +1,4 @@
-baseURL = "https://hugo.escuelait.com/"
+baseURL = "http://82.223.99.224/"
 languageCode = "es"
 title = "Mi sitio web"
 theme = "soho"
